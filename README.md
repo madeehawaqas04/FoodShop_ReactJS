@@ -1,5 +1,16 @@
-Project Demo : https://scintillating-smakager-860376.netlify.app/  
+##### This is an exapmle of a Honey website. It's fully responsive, modern.
+# <a target="_blank" href="https://darkleas.github.io/honey-website-reactjs/">Demo Link</a>
 
-Project Video : https://www.youtube.com/watch?v=KkQATIXBY5w&ab_channel=GorkCoder
 
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+# Getting Started with Create React App
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
